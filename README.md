@@ -40,7 +40,7 @@
 </div>
 
 <p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
+    <a href="https://www.codewars.com/users/PrettyDornan">
       <img src="https://github.r2v.ch/codewars?user=PrettyDornan" />
     </a>
 </p>

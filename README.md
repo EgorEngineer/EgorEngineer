@@ -2,12 +2,6 @@
   <img height="200" src="https://media1.tenor.com/m/Tsob5aHiS3UAAAAd/hello-there.gif"  />
 </div>
 
-<div id="badges" align="center">
-  <a href="https://career.habr.com/nikolaevegor18">
-  <img src="https://img.shields.io/badge/HabrCareer-6573B7?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
-  </a>
-<div>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />

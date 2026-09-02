@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EgorEngineer&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=EgorEngineer&rank_icon=github&include_all_commits=true)
-
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=EgorEngineer&rank_icon=github&include_all_commits=true" height="160" alt="stats graph"  />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=EgorEngineer&layout=compact&langs_count=5" height="160" alt="languages graph"  />

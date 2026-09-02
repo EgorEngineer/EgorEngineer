@@ -32,9 +32,3 @@
   <img src="https://github-stats-extended.vercel.app/api?username=EgorEngineer&rank_icon=github&include_all_commits=true" height="160" alt="stats graph"  />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=EgorEngineer&layout=compact&langs_count=5" height="160" alt="languages graph"  />
 </div>
-
-<p align="center" >
-    <a href="https://www.codewars.com/users/PrettyDornan">
-      <img src="https://github.r2v.ch/codewars?user=PrettyDornan" />
-    </a>
-</p>
